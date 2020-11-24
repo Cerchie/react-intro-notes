@@ -1,5 +1,5 @@
 const Animal = (props)=> {
-    console.log(props)
+ 
 return (
 <ul>
 <li>{props.emoji}</li>
